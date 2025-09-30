@@ -1,7 +1,14 @@
 # solid-spoon
 
-Project for 2nd practice for "Version Control Systems..."
+EN: Project for 2nd practice for "Version Control Systems..."
 
-Created at the 30 of September of 2025.
+RU: Проект для второй практике по "Системам контроля версий..."
 
-Created by Vladimir Krokhin.
+EN: Created at the 30 of September of 2025.
+
+RU: Создан 30 сентября 2025 года.
+
+
+EN: Created by Vladimir Krokhin.
+
+RU: Создан Крохиным Владимиром.
